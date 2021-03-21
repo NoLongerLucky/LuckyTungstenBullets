@@ -1,0 +1,3 @@
+displayName = Lucky's Tungsten Bullets
+author = NoLongerLucky
+version = 1.0
