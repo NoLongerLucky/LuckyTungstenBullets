@@ -6,4 +6,6 @@ Yes, I am aware that 1.4 already did this.
 CHANGELOG
 ===
 
+v1.1 - Linked the GitHub page to the mod.
+
 v1.0 - Finished the mod.
